@@ -1,0 +1,31 @@
+_repo: '----_38697'
+_version: 0.1.0
+alternative_title: Junjo Shishu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sato, Haruo
+    aliases:
+    - 佐藤春夫
+    - Zuoteng, Chunfu
+    birthdate: 1892
+    deathdate: 1964
+    gutenberg_agent_id: '39612'
+    url: http://www.gutenberg.org/2009/agents/39612
+    wikipedia: http://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%98%A5%E5%A4%AB
+description: ''
+gutenberg_issued: '2012-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38697'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japanese poetry'
+- !lcc 'PL'
+title: 殉情詩集
+url: http://www.gutenberg.org/ebooks/38697
